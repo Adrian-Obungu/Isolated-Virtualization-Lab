@@ -1,8 +1,8 @@
 
 # Building an Isolated Virtualization Lab for Advanced Payload Testing  
-**Author:** [Your Name]  
-**GitHub Repo:** [Your Repo Link]  
-**Last Updated:** [Date]  
+**Author:** Adrian Obungu 
+**GitHub Repo:** https://github.com/Adrian-Obungu/Isolated-Virtualization-Lab
+**Last Updated:** 4|25|2025  
 
 ---
 
